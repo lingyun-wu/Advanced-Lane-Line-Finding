@@ -1,8 +1,15 @@
 ## Advanced Lane Finding Project
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 ---
 
+The codes for this project is in the file [Advanced_Lane_Finding.ipynb](./Advanced_Lane_Finding.ipynb).
 
+The output project video can be found here [project_video_output.mp4](./output_video/project_video_output.mpt). 
+
+All output images is in the directory here [Output Images](./output_images).
+
+---
 **The goals / steps of this project are the following:**
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
